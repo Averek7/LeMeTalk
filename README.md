@@ -1,5 +1,4 @@
 # LeMeTalk
-
 ## About
 
 It is a chat application which based on MERN Stack where users can chat with each other and in groups.
@@ -40,3 +39,4 @@ git push origin branch-name
 - Make Sure you commit your changes in a new branch.
 - Make Sure you Give proper name to your files describing the addition.
 - Also Make Sure you comment your code wherever necessary.
+=======
